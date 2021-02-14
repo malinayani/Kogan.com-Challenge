@@ -4,9 +4,9 @@ Using the provided (paginated) API, find the average cubic weight for all produc
 
 Cubic weight is calculated by multiplying the length, height and width of the parcel. The result is then multiplied by the industry standard cubic weight conversion factor of 250.
 
-## Pre Requisite
-
+## Language Used
 Python3
+
 
 ## Installation instructions for Python3 can be found here
 
