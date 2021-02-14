@@ -15,7 +15,7 @@ Windows: https://docs.python.org/3/using/windows.html
 
 ## Usage
 
-Run this command in terminal, make sure to be in the directory where Kogan.py file located.
+Run this command in terminal, make sure to be in the directory where Kogan.py file is located.
 
 ```bash
 python3 kogan.py  
