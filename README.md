@@ -20,6 +20,11 @@ Run this command in terminal, make sure to be in the directory where Kogan.py fi
 ```bash
 python3 kogan.py  
 ```
+## Output
+
+Output will look something like this
+
+![](SS.png)
 
 ## Developer
 Developed by Muhammad Ali Nayani for Kogan.com
